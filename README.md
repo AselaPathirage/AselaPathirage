@@ -8,10 +8,6 @@ The opportunity to learn new skills and working with new technologies, particula
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aselapathirage/)](https://www.linkedin.com/in/aselapathirage/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/12778863/asela-pathirage)](https://stackoverflow.com/users/12778863/asela-pathirage)
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other devs
-- ☁ I'm also interests on cloud computing
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
