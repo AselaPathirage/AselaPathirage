@@ -1,10 +1,9 @@
 ## Hi there, I'm Asela 👋 
 
-I am an  undergrad at University of Colombo School of Computing and self-motivated and dynamic individual, who enjoy challenges and achieving goals.
-The opportunity to learn new skills and working with new technologies, particularly interests me.
+I am an undergrad at the University of Colombo School of Computing and a self-motivated and dynamic individual, who enjoys challenges and achieving goals.
+The opportunity to learn new skills and work with new technologies particularly interests me.
 
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/AselaPathirage/)](https://github.com/AselaPathirage/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aselapathirage/)](https://www.linkedin.com/in/aselapathirage/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/12778863/asela-pathirage)](https://stackoverflow.com/users/12778863/asela-pathirage)
 
